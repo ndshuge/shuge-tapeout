@@ -1,0 +1,562 @@
+[
+  {
+    "slug": "mouse-observatory",
+    "title": "小鼠观测站｜Mouse Observatory",
+    "date": "2026.11.05",
+    "type": "INTERACTIVE SCIENCE",
+    "description": "喂一只追着指针跑的小鼠，听它降频后的超声波情歌，看门牙一直长，再用胡须摸黑走出迷宫。",
+    "url": "./mouse-observatory/",
+    "cover": "./mouse-observatory/cover.webp",
+    "tags": [
+      "互动科普",
+      "超声波声谱",
+      "胡须迷宫"
+    ]
+  },
+  {
+    "slug": "living-archive",
+    "title": "SHUGE｜仍在形成 · Living Archive",
+    "date": "2026.10.30",
+    "type": "INTERACTIVE PERSONAL WORLD",
+    "description": "走进一座可触摸的私人数字档案馆。旋转、展开光学装置，探索知序、小芽与事实核验作品，也在音乐、机器人和话剧之间发现屏幕之外的生活。",
+    "url": "./living-archive/",
+    "cover": "./living-archive/cover.webp",
+    "tags": [
+      "个人数字艺术馆",
+      "真实 WebGL 交互",
+      "响应式作品集"
+    ]
+  },
+  {
+    "slug": "orbital-press",
+    "title": "失重印刷所｜Orbital Press",
+    "date": "2026.10.30",
+    "type": "INTERACTIVE ART",
+    "description": "触碰失重活字，牵引文字轨道、自由排版，再启动印刷机，把这一刻落成独一无二的数字海报。",
+    "url": "./orbital-press/",
+    "cover": "./orbital-press/cover.png",
+    "tags": [
+      "交互艺术",
+      "失重活字",
+      "可保存海报"
+    ]
+  },
+  {
+    "slug": "echo-coast",
+    "title": "回声岸线｜Echo Coast",
+    "date": "2026.10.30",
+    "type": "INTERACTIVE ART",
+    "description": "雨后的街道、末班车站与海边栈桥。拖动一片真实的声音地形，听三段城市夜声缓慢交叠。",
+    "url": "./echo-coast/",
+    "cover": "./echo-coast/cover.webp",
+    "tags": [
+      "三维声景",
+      "交互艺术",
+      "程序化声音"
+    ]
+  },
+  {
+    "slug": "shuge-in-progress-v3",
+    "title": "SHUGE · 正在发生｜个人档案 V4",
+    "date": "2026.10.30",
+    "type": "PERSONAL / MOTION EDITORIAL",
+    "description": "个人数字档案 V4：编辑式排版、真实 GSAP 与 ScrollTrigger 动效、触控交互、作品故事和成长时间线。",
+    "url": "./shuge-in-progress-v3/",
+    "cover": "./shuge-in-progress-v3/cover.svg",
+    "tags": [
+      "个人档案",
+      "专业动效",
+      "移动端精修"
+    ]
+  },
+  {
+    "slug": "interactive-matter",
+    "title": "微观宇宙｜Interactive Matter",
+    "date": "2026.10.29",
+    "type": "INTERACTIVE 3D ART",
+    "description": "一台可以亲手操作的微观仪器。扰动三维粒子、旋转面心立方晶格、改变反应扩散规则，观察秩序从运动中生成。",
+    "url": "./interactive-matter/",
+    "cover": "./interactive-matter/cover.svg",
+    "tags": [
+      "真实 3D 交互",
+      "程序化物质",
+      "PPT 下载"
+    ]
+  },
+  {
+    "slug": "light-paper-time",
+    "title": "折光档案｜Light, Paper & Time",
+    "date": "2026.10.29",
+    "type": "INTERACTIVE ART / EXHIBITION",
+    "description": "走进纸、光与时间的三间展厅。读一页摄影，拖动真正折射文字的透镜，让记忆沿时间缓缓变化，并带走三页艺术展册。",
+    "url": "./light-paper-time/",
+    "cover": "./light-paper-time/assets/cover.webp",
+    "tags": [
+      "交互艺术",
+      "光学折射",
+      "艺术展册 PPT"
+    ]
+  },
+  {
+    "slug": "autumn-haiku",
+    "title": "秋栖 · 秋日摄影俳句",
+    "date": "2026.10.29",
+    "type": "PHOTO HAIKU",
+    "description": "红叶染秋光，小鸟独栖斜枝上。三页摄影诗集：看一帧秋色，读一首短诗。",
+    "url": "./autumn-haiku/",
+    "cover": "./autumn-haiku/cover.webp",
+    "tags": [
+      "中文俳句",
+      "摄影诗集",
+      "PPT 下载"
+    ]
+  },
+  {
+    "slug": "squirrel",
+    "title": "松鼠 · 森林里的小小冒险家",
+    "date": "2026.10.29",
+    "type": "APPLE / NATURE STORY",
+    "description": "以沉浸式松鼠摄影、精致 Apple 风格排版和真正接入的 Liquid Glass 光学引擎，认识灵动的树梢邻居。",
+    "url": "./squirrel/",
+    "cover": "./squirrel/assets/hero.jpg",
+    "tags": [
+      "Apple 风格",
+      "自然观察",
+      "交互科普"
+    ]
+  },
+  {
+    "slug": "gameverse-vision",
+    "title": "GameVerse Vision · 苹果原生视觉游戏馆",
+    "date": "2026.10.29",
+    "type": "APPLE / GAME PLATFORM",
+    "description": "全新独立 GameVerse：参考 macOS 和 iPhone 双端截图，雪山壁纸、沉浸游戏封面、好友与成就展示，并提供 16 款真实网页游戏入口。",
+    "url": "./gameverse-vision/",
+    "cover": "./gameverse-vision/assets/wukong-hero.jpg",
+    "tags": [
+      "Apple 风格",
+      "GameVerse 新版",
+      "16 款可玩游戏"
+    ]
+  },
+  {
+    "slug": "gameverse",
+    "title": "GameVerse · 苹果风格游戏平台",
+    "date": "2026.10.29",
+    "type": "APPLE-INSPIRED GAME HUB",
+    "description": "面向手机和电脑的原生质感游戏平台，16 款原创浏览器游戏，支持精选推荐、分类搜索、收藏、最近游玩与沉浸游玩。",
+    "url": "./gameverse/",
+    "cover": "./gameverse/cover.svg",
+    "tags": [
+      "Liquid Glass",
+      "16 款原创游戏",
+      "桌面与移动端"
+    ]
+  },
+  {
+    "slug": "ai-academy-apple",
+    "title": "知序 AI 学院 · Apple Edition",
+    "date": "2026.10.28",
+    "type": "AI LEARNING / APPLE EDITION",
+    "description": "基于原版真实科学计算与学习证据的新一代知序学习空间。保留比赛原版，提供分步导师、独立作答、科学实验与复习。",
+    "url": "./ai-academy-apple/",
+    "cover": "./ai-academy-apple/cover.svg",
+    "tags": [
+      "Apple Edition",
+      "真实科学实验",
+      "AI 私人教师"
+    ]
+  },
+  {
+    "slug": "apple-motion-lab",
+    "title": "Apple Motion Lab · 原生级交互实验室",
+    "date": "2026.10.28",
+    "type": "INTERACTIVE MOTION",
+    "description": "WebGL 真实光学折射、可打断的物理弹簧与可拖动的共享播放器。",
+    "url": "./apple-motion-lab/",
+    "cover": "./apple-motion-lab/cover.png",
+    "tags": [
+      "Liquid Glass",
+      "Motion",
+      "交互实验"
+    ]
+  },
+  {
+    "slug": "mouseverse",
+    "title": "Mouseverse · 微小宇宙",
+    "date": "2026.10.28",
+    "type": "WILDLIFE FIELD GUIDE",
+    "description": "像 Apple Music 一样探索真实老鼠的世界：巢鼠、林姬鼠、家鼠与鹿鼠，沉浸式故事、图鉴和收藏。",
+    "url": "./mouseverse/",
+    "cover": "./mouseverse/assets/cover.webp",
+    "tags": [
+      "Apple Music 风格",
+      "自然图鉴",
+      "互动探索"
+    ]
+  },
+  {
+    "slug": "apple-design-lab",
+    "title": "Apple Design Lab · 真实液态玻璃",
+    "date": "2026.10.28",
+    "type": "INTERACTIVE DESIGN LAB",
+    "description": "基于真实 Apple 操作录屏研究长按菜单，体验原版 createGlass 光学折射、按压形变、弹性回弹与 L0/L1/L2 材质对照。",
+    "url": "./apple-design-lab/",
+    "cover": "./apple-design-lab/cover.svg",
+    "tags": [
+      "Liquid Glass",
+      "原生 Skill 引擎",
+      "长按交互"
+    ]
+  },
+  {
+    "slug": "liquid-glass-lab",
+    "title": "Liquid Glass｜光学玻璃实验室",
+    "date": "2026.10.28",
+    "type": "INTERACTIVE EXPERIMENT",
+    "description": "使用真实 SVG 光学位移引擎，还原液态玻璃的边缘折射与色散。拖动透镜，调节强度，直接对比 L0 / L1 / L2 三种材质。",
+    "url": "./arcade-library/glass-lab.html",
+    "cover": "./arcade-library/glass-lab-cover.svg",
+    "tags": [
+      "液态玻璃",
+      "光学折射",
+      "交互实验"
+    ]
+  },
+  {
+    "slug": "arcade-library",
+    "title": "游戏库 · SHUGE Arcade",
+    "date": "2026.10.28",
+    "type": "INTERACTIVE GAMES",
+    "description": "16 款原创浏览器小游戏。从像素动作到物理实验，支持搜索、分类、收藏与最近游玩，点开即玩。",
+    "url": "./arcade-library/",
+    "cover": "./arcade-library/cover.svg",
+    "tags": [
+      "Apple 风格",
+      "游戏收藏",
+      "16 款游戏"
+    ]
+  },
+  {
+    "slug": "frequency",
+    "title": "Frequency · 听见此刻",
+    "date": "2026.10.28",
+    "type": "MUSIC EXPERIENCE",
+    "description": "沉浸式 Apple 风格音乐探索界面：原创封面、真实试听、播放控制、搜索、收藏和播放队列。",
+    "url": "./frequency/",
+    "cover": "./frequency/covers/afterglow.svg",
+    "tags": [
+      "Apple 风格",
+      "音乐播放",
+      "沉浸交互"
+    ]
+  },
+  {
+    "slug": "move-daily",
+    "title": "动迹 · 运动打卡",
+    "date": "2026.10.28",
+    "type": "SPORTS CHECK-IN",
+    "description": "让每次运动都留下痕迹。记录跑步、步行、赛艇和力量训练，回顾真实的日历、连续打卡与运动趋势。",
+    "url": "./move-daily/",
+    "cover": "./move-daily/cover.svg",
+    "tags": [
+      "运动打卡",
+      "液态玻璃",
+      "训练趋势"
+    ]
+  },
+  {
+    "slug": "interaction-lab",
+    "title": "光感 · Interaction Lab",
+    "date": "2026.10.28",
+    "type": "INTERACTIVE EXPERIENCE",
+    "description": "一间会回应你的光之实验室。拖动光球、长按收集光线，切换晨光、落日与星夜，感受流畅的 Apple 风格触控反馈。",
+    "url": "./interaction-lab/",
+    "cover": "./interaction-lab/cover.svg",
+    "tags": [
+      "Apple 交互",
+      "自然弹性",
+      "液态玻璃"
+    ]
+  },
+  {
+    "slug": "focus-aura",
+    "title": "Focus Aura · 沉浸式专注空间",
+    "date": "2026.10.28",
+    "type": "FOCUS TIMER",
+    "description": "在晨光、深海与星夜之间，留一段时间给重要的事。自定义番茄钟、专注记录与七天统计，保存在浏览器本地。",
+    "url": "./focus-aura/",
+    "cover": "./focus-aura/cover.svg",
+    "tags": [
+      "番茄钟",
+      "沉浸氛围",
+      "本地记录"
+    ]
+  },
+  {
+    "slug": "luma-gallery",
+    "title": "光屿 Luma · 私人照片画廊",
+    "date": "2026.10.27",
+    "type": "PRIVATE PHOTO GALLERY",
+    "description": "把光影放进自己的私人空间。支持本机照片上传、分类、收藏、沉浸浏览、长按菜单和完整原图备份。",
+    "url": "./luma-gallery/",
+    "cover": "./luma-gallery/cover.svg",
+    "tags": [
+      "Apple 风格",
+      "私人画廊",
+      "照片收藏"
+    ]
+  },
+  {
+    "slug": "habit-flow",
+    "title": "Habit Flow · 习惯追踪",
+    "date": "2026.10.27",
+    "type": "HABIT TRACKER",
+    "description": "轻松记录每日习惯完成情况，按周查看节奏，按月回顾足迹；本机保存、支持备份恢复。",
+    "url": "./habit-flow/",
+    "cover": "./habit-flow/icon.svg",
+    "tags": [
+      "习惯养成",
+      "每日打卡",
+      "周月回顾"
+    ]
+  },
+  {
+    "slug": "mood-journal",
+    "title": "心绪 · 心情日记",
+    "date": "2026.10.27",
+    "type": "MOOD JOURNAL",
+    "description": "记录每天的心情和日记，在日历里回顾那些平凡而真实的日子。仅在浏览器本地保存，支持备份恢复。",
+    "url": "./mood-journal/",
+    "cover": "./mood-journal/cover.svg",
+    "tags": [
+      "每日心情",
+      "日历回顾",
+      "私人日记"
+    ]
+  },
+  {
+    "slug": "idea-cards",
+    "title": "灵感卡片",
+    "date": "2026.10.27",
+    "type": "IDEA BOARD",
+    "description": "随时收藏闪现的想法，分类整理、全文搜索、收藏和随机回顾。浏览器本地保存，支持备份。",
+    "url": "./idea-cards/",
+    "cover": "./idea-cards/cover.png",
+    "tags": [
+      "想法整理",
+      "随机回顾",
+      "本地保存"
+    ]
+  },
+  {
+    "slug": "time-capsule",
+    "title": "时光胶囊 · Moments",
+    "date": "2026.10.26",
+    "type": "PERSONAL JOURNAL",
+    "description": "把值得记住的瞬间轻轻收藏。记录、编辑、珍藏与回顾生活故事，支持照片和本地备份。",
+    "url": "./time-capsule/",
+    "cover": "",
+    "tags": [
+      "Apple 风格",
+      "生活记录",
+      "本地保存"
+    ]
+  },
+  {
+    "slug": "study-flow",
+    "title": "Study Flow · 学习进度",
+    "date": "2026.10.26",
+    "type": "STUDY DASHBOARD",
+    "description": "Apple 风格学习仪表盘：添加学习目标、记录学习时长、查看最近七天趋势，数据保存在浏览器本地。",
+    "url": "./study-flow/",
+    "cover": "",
+    "tags": [
+      "学习进度",
+      "目标管理",
+      "Apple 风格"
+    ]
+  },
+  {
+    "slug": "xjtu-campus-3d",
+    "title": "西交 · 兴庆 3D 校园",
+    "date": "2026.10.26",
+    "type": "INTERACTIVE 3D CAMPUS",
+    "description": "漫游西安交通大学兴庆校区，探索钱学森图书馆、腾飞塔和四大发明广场。基于 OSM 地理数据与实景参考，部分立面仍为示意。",
+    "url": "./xjtu-campus-3d/",
+    "cover": "",
+    "tags": [
+      "3D 校园",
+      "自由漫游",
+      "地理可视化"
+    ]
+  },
+  {
+    "slug": "aurora-player",
+    "title": "澄音 · Apple 风格音乐播放器",
+    "date": "2026.10.26",
+    "type": "MUSIC PLAYER",
+    "description": "可播放原创试听曲，支持导入本地音乐、列表切歌、实时进度与沉浸式液态玻璃界面。",
+    "url": "./aurora-player/",
+    "cover": "./aurora-player/cover.svg",
+    "tags": [
+      "Apple 风格",
+      "本地音乐",
+      "液态玻璃"
+    ]
+  },
+  {
+    "slug": "glass-calendar",
+    "title": "时序 · 日历",
+    "date": "2026.10.25",
+    "type": "CALENDAR",
+    "description": "轻盈的液态玻璃日历，支持月周切换、日程管理与本地保存。",
+    "url": "./glass-calendar/",
+    "cover": "./glass-calendar/cover.png",
+    "tags": [
+      "液态玻璃",
+      "日程管理",
+      "响应式"
+    ]
+  },
+  {
+    "slug": "moonlight-player",
+    "title": "月光存档 · Apple 沉浸播放器",
+    "date": "2026.10.25",
+    "type": "IMMERSIVE MUSIC UI",
+    "description": "一台没有真实音乐、却会随歌词呼吸的播放器。三首原创虚构曲目，体验液态玻璃、动态光影、同步歌词和弹性控制。",
+    "url": "./moonlight-player/",
+    "cover": "./moonlight-player/cover.svg",
+    "tags": [
+      "Apple 风格",
+      "同步歌词",
+      "交互演示"
+    ]
+  },
+  {
+    "slug": "personal-homepage",
+    "title": "鼠哥 · 个人主页",
+    "date": "2026.10.25",
+    "type": "PERSONAL PORTFOLIO",
+    "description": "把好奇心做成作品。浏览真实的游戏、AI 学习工具与科学实验，切换看看鼠哥做过的东西。",
+    "url": "./personal-homepage/",
+    "cover": "./personal-homepage/cover.webp",
+    "tags": [
+      "个人主页",
+      "作品集",
+      "交互设计"
+    ]
+  },
+  {
+    "slug": "xjtu-chronicle",
+    "title": "向西而行 · 西安交通大学纪事",
+    "date": "2026.10.25",
+    "type": "CAMPUS CHRONICLE",
+    "description": "从南洋公学到西迁与创新港。沿着四个校史节点，重新认识西安交通大学的校园、建筑与精神。",
+    "url": "./xjtu-chronicle/",
+    "cover": "./xjtu-chronicle/cover.svg",
+    "tags": [
+      "西交校园",
+      "百卅校史",
+      "摄影叙事"
+    ]
+  },
+  {
+    "slug": "saturn-atlas",
+    "title": "环的另一边 · 土星观测室",
+    "date": "2026.10.25",
+    "type": "INTERACTIVE ASTRONOMY",
+    "description": "从卡西尼号的真实土星影像出发，改变光环的观测仰角，亲手比较光抵达不同行星的时间。",
+    "url": "./saturn-atlas/",
+    "cover": "./saturn-atlas/cover.webp",
+    "tags": [
+      "NASA 影像",
+      "土星环实验",
+      "光行时"
+    ]
+  },
+  {
+    "slug": "xiaoya-lifelab",
+    "title": "小芽 LifeLab",
+    "date": "2026.10.22",
+    "type": "CAMPUS LIFE TOOL",
+    "description": "陪你整理课表、任务与成长路线的小芽。公开版无需 API，即可体验规则规划与成长复盘。",
+    "url": "https://ndshuge.github.io/xiaoya-lifelab/",
+    "cover": "https://ndshuge.github.io/xiaoya-lifelab/assets/brand/xiaoya_hero_v1.webp",
+    "tags": [
+      "大学生活",
+      "成长规划",
+      "本地规则"
+    ]
+  },
+  {
+    "slug": "sea-of-little-things",
+    "title": "无用之海",
+    "date": "2026.10.22",
+    "type": "GENERATIVE ART",
+    "description": "丢下一点光，轻轻拨动潮汐。没有任务，只有一片会回应你的海。",
+    "url": "./sea-of-little-things/",
+    "cover": "./sea-of-little-things/cover.png",
+    "tags": [
+      "交互艺术",
+      "合成声音",
+      "可离线"
+    ]
+  },
+  {
+    "slug": "emergence-lab",
+    "title": "涌现实验室",
+    "date": "2026.10.22",
+    "type": "INTERACTIVE SCIENCE",
+    "description": "十四个会自己演化的小世界。从粒子、鸟群到化学花纹与幽灵堵车，只改一条规则，发现意想不到的整体行为。",
+    "url": "./emergence-lab/",
+    "cover": "./emergence-lab/cover.png",
+    "tags": [
+      "14 种模拟",
+      "参数解释",
+      "A/B 对照"
+    ]
+  },
+  {
+    "slug": "liminal",
+    "title": "引力边界 · LIMINAL",
+    "date": "2026.10.22",
+    "type": "WEBGL EXPERIENCE",
+    "description": "穿越事件视界、星云与光速边界。转动视角，靠近宇宙的另一面。",
+    "url": "./liminal/",
+    "cover": "./liminal/cover.svg",
+    "tags": [
+      "WebGL 宇宙",
+      "三重场景",
+      "交互声音"
+    ]
+  },
+  {
+    "slug": "zhixu-ai-academy",
+    "title": "知序 AI 学院",
+    "date": "2026.10.22",
+    "type": "INTERACTIVE LEARNING",
+    "description": "对比 Original、Apple R3、Apple V4、Apple V5 四代知序学习界面。原版科学实验、学习记录与安全边界保持一致。",
+    "url": "./zhixu-versions/",
+    "cover": "",
+    "tags": [
+      "科学探究",
+      "学习证据",
+      "可交互"
+    ]
+  },
+  {
+    "slug": "page-between",
+    "title": "页间 · 阅读",
+    "date": "2026.10.25",
+    "type": "READING APP",
+    "description": "一款 Apple 风格的私人阅读器。支持 TXT 导入、阅读设置与本地进度。",
+    "url": "./page-between/",
+    "cover": "",
+    "tags": [
+      "Apple 风格",
+      "私人书架",
+      "本地阅读"
+    ]
+  }
+]
